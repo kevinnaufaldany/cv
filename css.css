@@ -1,0 +1,56 @@
+*{
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.coba {
+   text-align: center
+}
+
+.foto {
+   border-radius: 20px;
+}
+
+.container1 {
+   font-size: 17px;
+   text-align: center;
+}
+ul {
+   list-style: none;
+}
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   color: orangered;
+   font-size: 17px;
+   transition-duration: 0.6s;
+}
+
+li {
+   list-style: none;
+}
+
+.contact {
+   text-align: center;
+}
+
+.kata{
+   text-align: center;
+}
+
+.experience {
+   background-color: rgb(234, 227, 227);
+   border-radius: 20px;
+   text-align: center;
+}
+
+
+
